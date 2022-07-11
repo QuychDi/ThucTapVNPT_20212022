@@ -17,3 +17,5 @@ Trần Bảo Trinh - B1805667
 Thạch Huỳnh Bảo Trân - B1807603
 
 Được có cơ hội thực tập tại Trung tâm Công nghệ thông tin VNPT Cần Thơ qua thời gian 2 tháng thực tập tại cơ quan tuy không dài nhưng bản thân em đã học được rất nhiều kiến thức mới, được quan sát cách làm việc hàng ngày tại môi trường làm việc chuyên nghiệp và nghiêm túc giúp bản thân hiểu được bản thân cần trau dồi thêm nhiều kiến thức và kinh nghiệm trong công việc sau này
+
+Đường dẫn SQL: https://github.com/QuychDi/ThucTapVNPT_20212022/blob/main/CSDL.sql
